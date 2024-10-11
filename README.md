@@ -1,5 +1,5 @@
 <h1 align="center">Ola 👋, Me chamo Carlos Mantovani</h1>
-<h3 align="center">Atualmente sou desenvolvedor back-end focado em Java Spring Boot. Estou sempre em busca de aprimorar minhas habilidades e conhecimentos para me tornar um desenvolvedor completo. Meu GitHub serve como um portfólio para demonstrar tudo que sei fazer.</h3>
+<h3 align="center"> Sou desenvolvedor back-end. Estou sempre em busca de aprimorar minhas habilidades e conhecimentos para me tornar um desenvolvedor completo. Meu GitHub serve como um portfólio para demonstrar tudo que sei fazer.</h3>
 
 - 🌱 Atualmente estou aprendendo **SpringBoot**
 
