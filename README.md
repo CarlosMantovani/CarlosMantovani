@@ -1,7 +1,6 @@
 <h1 align="center">Ola 👋, Me chamo Carlos Mantovani</h1>
 <h3 align="center"> Sou desenvolvedor back-end. Estou sempre em busca de aprimorar minhas habilidades e conhecimentos para me tornar um desenvolvedor completo. Meu GitHub serve como um portfólio para demonstrar tudo que sei fazer.</h3>
 
-- 🌱 Atualmente estou aprendendo **SpringBoot**
 
 - 📫 Como entrar em contato comigo **mantovanicarloshenrique@gmail.com**
 
@@ -31,9 +30,6 @@
   </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
