@@ -46,6 +46,15 @@
 </p>
 
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosmantovani&show_icons=true&locale=en&layout=compact" alt="carlosmantovani" /></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosmantovani&" alt="carlosmantovani" /></p>
+  <table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosmantovani&show_icons=true&locale=en&layout=compact" alt="carlosmantovani" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosmantovani&" alt="carlosmantovani" />
+    </td>
+  </tr>
+</table>
 </div>
+
