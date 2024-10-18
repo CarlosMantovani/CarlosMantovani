@@ -7,13 +7,14 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/carlosmantovani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/carlosmantovani" height="30" width="40" /></a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,spring,laravel,aws,mysql,bootstrap,gulp,postman,&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,php,spring,laravel,aws,mysql,bootstrap,gulp,postman,linkedin&theme=light" />
   </a>
 </p>
 
