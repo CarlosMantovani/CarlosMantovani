@@ -7,7 +7,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://skillicons.dev">
+<a href="www.linkedin.com/in/carlosmantovani">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
 </p>
 
