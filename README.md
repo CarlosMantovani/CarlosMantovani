@@ -14,7 +14,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,spring,laravel,aws,mysql,bootstrap,gulp,postman,linkedin&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,php,spring,laravel,aws,mysql,bootstrap,gulp,postman&theme=light" />
   </a>
 </p>
 
