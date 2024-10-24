@@ -25,9 +25,8 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosmantovani&show_icons=true&locale=en&layout=compact" alt="carlosmantovani" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosmantovani&" alt="carlosmantovani" />
+     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=carlosmantovani&hide_border=verdadeiro&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CSat&hide_longest_streak=true" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
 </div>
-
